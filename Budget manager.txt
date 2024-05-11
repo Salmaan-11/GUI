@@ -1,10 +1,1 @@
-Budget Manager
 
-Create a class of Transaction, it will represent individual transactions like income or expenses. 
-It may include Amount, date, and type attributes for transactions. Also, getters and setters methods for 
-attributes shall be included.
-Transaction Manager Class, this class will manage all the transactions which would take place. It shall include methods of adding a Transaction,
-removing a transaction, Total Expenses, Total Income, Remaining Balance etc.
-A User Interface: An interface for user to Enter the amounts and manage inputs.
-A Budget Tracker class which would include main method to start the application. Display of Information may be done appropriately.
-Moreover, a GUI Stage be created with a login page where information will be presented in a fashionly manner.
